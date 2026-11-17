@@ -8,9 +8,9 @@ export const getUserProfile = () => {
     /* ignore */
   }
   return {
-    nama: 'Massea Kresna Aravena Putra Febrianto',
-    nim: '21120124120027',
-    kelompok: 'Kelompok 12',
+    nama: 'Dinda Azra Ariefiah',
+    nim: '21120124120039',
+    kelompok: 'Kelompok 06',
     skinType: 'Combination',
     bio: 'Praktikan Pemrograman Perangkat Bergerak — Teknik Komputer Undip',
     avatar: null,

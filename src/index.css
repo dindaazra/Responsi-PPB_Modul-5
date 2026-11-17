@@ -1,11 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
 :root {
-  --bg: #fff9fb;
+  --bg: #f6f5f0;
   --surface: #ffffff;
-  --ink: #1f1720;
-  --muted: #6e5c6b;
-  --accent: #be185d;
-  --accent-soft: #fce7f3;
-  --line: #f1dce6;
+  --ink: #1c2420;
+  --muted: #5e6b64;
+  --accent: #2d5a43;
+  --accent-hover: #214432;
+  --accent-soft: #e4ede7;
+  --gold: #b88a44;
+  --line: #dfe3dc;
 }
 
 * {
