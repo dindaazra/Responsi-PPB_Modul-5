@@ -1,0 +1,21 @@
+:root {
+  --bg: #fff9fb;
+  --surface: #ffffff;
+  --ink: #1f1720;
+  --muted: #6e5c6b;
+  --accent: #be185d;
+  --accent-soft: #fce7f3;
+  --line: #f1dce6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
